@@ -1,0 +1,9 @@
+
+[package]
+name = "random-dril-tweet"
+version = "0.1.0"
+authors = ["Eric Fulmer <eric.r.fulmer@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
+ansi_term = "0.7.2"
