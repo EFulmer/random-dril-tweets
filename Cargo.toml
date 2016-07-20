@@ -1,4 +1,3 @@
-
 [package]
 name = "random-dril-tweet"
 version = "0.1.0"
@@ -7,3 +6,5 @@ authors = ["Eric Fulmer <eric.r.fulmer@gmail.com>"]
 [dependencies]
 rand = "0.3"
 ansi_term = "0.7.2"
+bson = "0.2.1"
+mongodb = "0.1.4"
